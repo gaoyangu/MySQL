@@ -7,3 +7,5 @@
 [01. 了解数据库](./notes/01.了解数据库.md)
 
 [02. DQL语言](./notes/02.DQL语言.md)
+
+[03. DML语言](./notes/03.DML语言.md)
