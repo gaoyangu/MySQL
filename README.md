@@ -11,3 +11,5 @@
 [03. DML语言](./notes/03.DML语言.md)
 
 [04. DDL语言](./notes/04.DDL语言.md)
+
+[05. TCL语言](./notes/05.TCL语言.md)
