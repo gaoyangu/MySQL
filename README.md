@@ -12,4 +12,4 @@
 
 [04. DDL语言](./notes/04.DDL语言.md)
 
-[05. TCL语言](./notes/05.TCL语言.md)
+[05. TCL语言和视图](./notes/05.TCL语言和视图.md)
